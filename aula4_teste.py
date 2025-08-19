@@ -1,27 +1,27 @@
 #### EXE 1
 
-# alunos = ["francisco", "joão", "jose", "maria"]
-# print(alunos)
+alunos = ["francisco", "joão", "jose", "maria"]
+print(alunos)
 
 # #### EXE 2
-# print("********************************************")
-# alunos.append("leandro")
-# alunos.insert(1, "leonardo")
-# print(alunos)
-# alunos.remove("leandro")
-# print(alunos)
+print("********************************************")
+alunos.append("leandro")
+alunos.insert(1, "leonardo")
+print(alunos)
+alunos.remove("leandro")
+print(alunos)
 
 # #### EXE 3
 
-# print("********************************************")
+print("********************************************")
 
-# lista_de_alunos = alunos.copy
-# print(id(alunos))
-# print(id(lista_de_alunos))
+lista_de_alunos = alunos.copy
+print(id(alunos))
+print(id(lista_de_alunos))
 
 # #### EXE 4
 
-# print("********************************************")
+print("********************************************")
 
 numeros = [1, 2, 3, 4, 5]
 

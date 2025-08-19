@@ -20,9 +20,11 @@ frutas = ["banana", "manga", "laranja", "jaca", "melancia", "limão", "abacaxi"]
 
 #### ORDENAR LISTAS
 
-#print(sorted(frutas))
-# print.sort(reverse=True)
-# print(frutas)
+print(sorted(frutas))
+frutas.sort()
+print(frutas)
+frutas.sort(reverse=True)
+print(frutas)
 
 # fruta = "morango"
 # morango_do_amor = fruta
