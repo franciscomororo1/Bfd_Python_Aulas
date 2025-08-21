@@ -30,7 +30,8 @@ print(legumes | frutas)
 
 #### DICIONARIO
 
-lista_alunos {"nome":"Fred",
+lista_alunos = {"nome":"Fred",
              "Idade" : 36,
              "Endereço" : "Rua x",
              "Turma" : ("turma 34", "Turma 36")}
+
