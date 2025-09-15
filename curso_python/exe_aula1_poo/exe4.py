@@ -8,9 +8,7 @@ class Carro:
         return f"Marca: {self.marca} Modelo: {self.modelo} Ano: {self.ano}"
 
 carro1 = Carro("Chevrolet", "Meriva", 2012)
-carro2 = Carro("Chevrolet", "Prisma", 2017) 
-carro3 = Carro("Renault", "Clio", 2009)
-
 print(carro1)
-print(carro2)
-print(carro3)
+
+carro1.ano = 2009
+print(carro1)
