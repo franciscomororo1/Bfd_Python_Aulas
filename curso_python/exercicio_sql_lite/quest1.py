@@ -1,6 +1,6 @@
 import sqlite3
 
-conexao = sqlite3.connect('escola_v2.db')
+conexao = sqlite3.connect('curso_python/exercicio_sql_lite/escola_v2.db')
 
 cursor = conexao.cursor()
 
